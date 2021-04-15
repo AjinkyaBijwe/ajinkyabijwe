@@ -1,6 +1,8 @@
-### Hi there 👋
+### My Top Languages 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyabijwe&layout=compact&show_icons=true&theme=radical)](https://github.com/ajinkyabijwe/github-readme-stats)
+
+### Projects with Demos 📸
 
 <a href="https://github.com/ajinkyabijwe/Chrome-Devtools-Styler">
   <img align="left" width="400" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Chrome-Devtools-Styler&show_icons=true&theme=radical" />
