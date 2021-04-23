@@ -11,17 +11,17 @@
 </a>
 
 <a href="https://github.com/ajinkyabijwe/Chrome-Devtools-Styler">
-  <img align="left" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Chrome-Devtools-Styler&show_icons=true&theme=radical" />
+  <img align="right" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Chrome-Devtools-Styler&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/ajinkyabijwe/Customizable-Analog-Clock">
-  <img align="right" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Customizable-Analog-Clock&show_icons=true&theme=radical" />
+  <img align="left" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Customizable-Analog-Clock&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/ajinkyabijwe/Code-Beautifier">
-  <img align="left" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Code-Beautifier&show_icons=true&theme=radical" />
+  <img align="right" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Code-Beautifier&show_icons=true&theme=radical" />
 </a>
 
 <a href="https://github.com/ajinkyabijwe/Json-Editor">
-  <img align="right" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Json-Editor&show_icons=true&theme=radical" />
+  <img align="left" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Json-Editor&show_icons=true&theme=radical" />
 </a>
