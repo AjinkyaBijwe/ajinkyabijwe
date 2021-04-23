@@ -6,6 +6,10 @@
 
 ### Projects with Demos :computer:
 
+<a href="https://github.com/AjinkyaBijwe/WebRTCVideoCall">
+  <img align="left" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=WebRTCVideoCall&show_icons=true&theme=radical" />
+</a>
+
 <a href="https://github.com/ajinkyabijwe/Chrome-Devtools-Styler">
   <img align="left" width="400" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=ajinkyabijwe&repo=Chrome-Devtools-Styler&show_icons=true&theme=radical" />
 </a>
