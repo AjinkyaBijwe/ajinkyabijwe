@@ -1,8 +1,8 @@
 ### [My Portfolio ](http://ajinkya.dev "My Portfolio ") :page_facing_up:
 
-### My Top Languages :pencil:
+### My Tech Stack :pencil:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinkyabijwe&layout=compact&show_icons=true&theme=radical)](https://github.com/ajinkyabijwe/github-readme-stats)
+![Tech Stack](https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=angular%2Cvuedotjs%2Creact%2Cjavascript%2Ctypescript%2Cpython%2Cjava%2Cmysql%2Cpostgresql%2Cmongodb%2Ccss3%2Cionic%2Cjquery%2Cfirebase%2Cjenkins%2Cgooglecloud%2Camazonaws%2Cheroku%2Cnetlify%2Cgit%2Cfigma%2Cinvision%2Cauth0&preset=default&shadow=true&width=300)
 
 ### Projects with Demos :computer:
 
